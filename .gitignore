@@ -1,0 +1,9 @@
+private*/
+**/private*/
+*.partial
+*.key
+*.sqlite*
+*personalized*.tar.gz
+firmware/*.tar.gz
+.env*
+__pycache__/
